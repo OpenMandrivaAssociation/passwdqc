@@ -114,3 +114,13 @@ rm -rf %{buildroot}
 %{_includedir}/*.h
 %{_libdir}/lib*.so
 
+
+
+%changelog
+* Sat Nov 26 2011 Oden Eriksson <oeriksson@mandriva.com> 1.2.2-1mdv2012.0
++ Revision: 733618
+- import passwdqc
+
+
+* Sat Nov 26 2011 Oden Eriksson <oeriksson@mandriva.com> 1.2.2-1mdv2010.2
+- initial Mandriva package
