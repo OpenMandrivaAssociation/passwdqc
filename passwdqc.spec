@@ -5,7 +5,7 @@
 Summary:	A password/passphrase strength checking and policy enforcement toolset
 Name:		passwdqc
 Version:	1.2.2
-Release:	%mkrel 1
+Release:	2
 License:	BSD
 Group:		System/Libraries
 URL:		http://www.openwall.com/passwdqc/
